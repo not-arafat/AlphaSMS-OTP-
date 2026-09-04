@@ -719,7 +719,7 @@ def generate_otp_display(service_name, raw_number, message_text):
     
     # 🌟 রেঞ্জ বের করার লজিক (ডিফল্ট ৫ ডিজিট)
     clean_range = str(raw_number)[:5] if len(str(raw_number)) >= 5 else str(raw_number)
-    deep_link = f"https://t.me/{BOT_USERNAME}?start=alloc_{clean_range}_{service_name.lower()}"
+    deep_link = f"https://t.me/AIphaSMS_Bot?start=alloc_{clean_range}_{service_name.lower()}"
     
     markup = {"inline_keyboard": []}
     
