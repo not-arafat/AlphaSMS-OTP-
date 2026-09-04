@@ -24,7 +24,7 @@ PUBLIC_BOT_LINK = "https://t.me/AIphaSMS_Bot"
 
 # 2oo9 API Configuration
 API_2OO9_BASE = "https://api.2oo9.cloud/MXS47FLFX0U/tnevs/@public/api"
-API_2OO9_KEY_DEFAULT = "MM986GSKFJ1"
+API_2OO9_KEY_DEFAULT = "MHF5UTYD3L7"
 
 # ==========================================
 # Render Health Server
